@@ -1,3 +1,4 @@
+![logo](https://github.com/usman-rgb/usman-rgb/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 
